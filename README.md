@@ -7,11 +7,11 @@ Mit dem Benutzen dieser API stimmen sie der License und der Softwarebedingungen 
 
 # PIP Installationspakete:
 
-    <   - Nanoleafapi[https://nanoleafapi.readthedocs.io/en/latest/#]
+        - Nanoleafapi[https://nanoleafapi.readthedocs.io/en/latest/#]
         - Tkinter [https://docs.python.org/3/library/tkinter.html]
         - os
         - time
-    >
+    
 
 # Installation und Einrichtung
 
