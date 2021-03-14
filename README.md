@@ -1,3 +1,5 @@
+Developed from Severin Bögli
+
 # Nanoleaf Light API
 
 !!! Wichtig !!! Diese Programm wurde nur für die Nanoleaf Auroras getestet.
@@ -24,4 +26,4 @@ Mit dem Benutzen dieser API stimmen sie der License und der Softwarebedingungen 
     4. Programm ausführen
 
 
-# Developed from Severin Bögli
+
