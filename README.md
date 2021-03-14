@@ -1,6 +1,6 @@
 # Nanoleaf Light API
 
-# !!! Wichtig !!! Diese Programm wurde nur für die Nanoleaf Auroras getestet.
+!!! Wichtig !!! Diese Programm wurde nur für die Nanoleaf Auroras getestet.
 
 Diese Nanoleafapi wurde entwickelt für den Privaten gebrauch.
 Mit dem Benutzen dieser API stimmen sie der License und der Softwarebedingungen zu.
