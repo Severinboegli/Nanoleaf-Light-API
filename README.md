@@ -3,7 +3,7 @@ Developed from Severin Bögli
 # Nanoleaf Light API
 
 !!! Wichtig !!! Diese Programm wurde nur für die Nanoleaf Auroras getestet.
-Kompatiebel für alle Betriebsysteme
+ kompatibel  für alle Betriebsysteme
 
 Diese Nanoleafapi wurde entwickelt für den Privaten gebrauch.
 Mit dem Benutzen dieser API stimmen sie der License und der Softwarebedingungen zu.
