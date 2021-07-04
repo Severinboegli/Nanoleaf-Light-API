@@ -16,7 +16,7 @@ Mit dem Benutzen dieser API stimmen sie der License und der Softwarebedingungen 
         - time
     
 
-# Installation und Einrichtung
+# Installation und Einrichtung (1-mal vollständig durchfüren)
 
     1.  Installieren der notwendigen PIP Packages [Erklährung-> https://www.w3schools.com/python/python_pip.asp]
 
